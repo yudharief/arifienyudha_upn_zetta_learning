@@ -1,0 +1,42 @@
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 230px;
+    border-radius:1em;
+    display: inline-block;
+
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container {
+    padding: 2px 16px;
+  }
+
+  .nnt {
+    padding: 1em;
+    width:200px;
+    border-radius: 40px;
+    display:block;
+  }
+
+  *{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 25px;
+    color:brown;
+  }
+
+  .atas {
+    padding: 2rem;
+    background-color: #C0C0C0;
+
+  }
+
+  .card .container h4 b {
+    font-family: 'Courier New', Courier, monospace;
+  }
