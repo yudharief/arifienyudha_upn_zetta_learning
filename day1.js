@@ -28,6 +28,6 @@
 
 }
 
-discount({title: "The Great Gatsby", price:5000, publicity: true}, 50, 10);
-discount({title: "To Kill a Mockingbird", price:10000, publicity: false}, 50, 10);
-discount({title: "Moby Dick", price:15000, publicity: true}, 50, 10);
+discount({title: "The Revenge Of Seven", price:5000, publicity: true}, 50, 10);
+discount({title: "A Dash of Magic", price:10000, publicity: false}, 50, 10);
+discount({title: "Harry Potter", price:15000, publicity: true}, 50, 10);

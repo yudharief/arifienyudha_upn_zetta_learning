@@ -1,0 +1,22 @@
+{
+  "name": "arifienyudha_upn_zetta_learning",
+  "version": "1.0.0",
+  "description": "belajar js day1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yudharief/arifienyudha_upn_zetta_learning.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "yudha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yudharief/arifienyudha_upn_zetta_learning/issues"
+  },
+  "homepage": "https://github.com/yudharief/arifienyudha_upn_zetta_learning#readme"
+}
